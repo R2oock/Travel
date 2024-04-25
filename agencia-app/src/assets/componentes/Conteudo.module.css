@@ -1,0 +1,58 @@
+.escocia{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url("./img/escocia.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding-top: 35px ;
+    h1{
+        color: #000;
+        text-align: center;
+           }
+}
+
+.muralha{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url("./img/muralha.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding-top: 35px ;
+
+    h1{
+        color: #000;
+        text-align: center;
+    }
+}
+
+.canyan{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url("./img/caynan.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding-top: 35px ;
+
+    h1{
+        color: #000;
+        text-align: center;
+    }
+}
+
+.aruba{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url("./img/aruba.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding-top: 35px ;
+
+    h1{
+        color: #000;
+        text-align: center;
+    }
+}
